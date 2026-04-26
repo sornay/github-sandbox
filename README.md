@@ -14,7 +14,7 @@ A GitHub Actions workflow that lets you download files into your repository just
 3. Scroll down to **Workflow permissions**
 4. Select **Read and write permissions** and click **Save**
 
-That's it — no tokens or secrets needed.
+That's it — no tokens or secrets needed
 
 ---
 
